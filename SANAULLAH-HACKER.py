@@ -433,7 +433,7 @@ class Main:
 			time.sleep(2.0)
 			print("\033[1;33m")
 			print("")
-			input("\n\033[1;32m  𝐓𝐘𝐏𝐄 𝐐𝐔𝐄𝐄𝐍 ==> \033[1;36m")
+			input("\n\033[1;32m  Types Your Name ==> \033[1;36m")
 			time.sleep(2.1)
 			print("")
 			print("\033[1;32m 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝐒𝐇𝐑𝐔𝐓𝐈 𝗧𝗢𝗢𝗟𝗦")
